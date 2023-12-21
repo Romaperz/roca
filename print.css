@@ -1,0 +1,31 @@
+/*.box-container-1 {width: 20%;}*/
+.box-container-1 {
+    max-width: 800px;
+    margin: 5px ;
+    padding: 10px;
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20%;
+    background-color: rgb(254, 254, 255);
+  }
+ 
+
+  .box-container-2 {
+    max-width: 260px;
+    margin: 5px;
+    padding: 10px;
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% ;
+  }
+  
+  hr {
+    border: 1px solid #ff2f28;
+    margin-bottom: 40px;
+}
+
+
+.footer {
+  color: #204150;
+  font-size: 20px;
+  margin-right: 20px;
+  display: block;
+}
